@@ -1,8 +1,8 @@
-# Indian-Postal-Code
+# Indian Postal Code with latitude and longitude
 
 Readme for  Postal Code files :
 
-The data format is tab-delimited text in utf8 encoding, with the following fields :
+The default data format is tab-delimited text in utf8 encoding, with the following fields :
 
 country code      : iso country code, 2 characters
 postal code       : varchar(20)
