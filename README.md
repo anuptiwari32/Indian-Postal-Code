@@ -1,4 +1,4 @@
-# Indian Postal Code with latitude and longitude
+# Indian Postal Code with latitude and longitude with SQL format
 
 Readme for  Postal Code files :
 
@@ -17,4 +17,4 @@ latitude          : estimated latitude (wgs84)
 longitude         : estimated longitude (wgs84)
 
 
-There are two converted files each for Microsoft Sql Server and Mysql
+There is a converted file each for use with Mysql
